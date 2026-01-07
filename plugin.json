@@ -11,9 +11,5 @@
     "class": "ForceDarkModePlugin",
     "panels": ["admin", "app", "server"],
     "panel_version": "1.0.0-beta30",
-    "composer_packages": null,
-    "meta": {
-	"enabled": false,
-	"installed": false
-    }
+    "composer_packages": null
 }
